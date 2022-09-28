@@ -1,5 +1,7 @@
 # Azure landing zones Terraform module
 
+![AshTechieLogo](https://user-images.githubusercontent.com/110538923/192832400-1378d5f5-6f4e-41ad-8d1d-b8f33a785a17.png)
+
 [![Build Status](https://dev.azure.com/mscet/CAE-ALZ-Terraform/_apis/build/status/Tests/E2E?branchName=refs%2Ftags%2Fv2.3.1)](https://dev.azure.com/mscet/CAE-ALZ-Terraform/_build/latest?definitionId=26&branchName=refs%2Ftags%2Fv2.3.1)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Azure/terraform-azurerm-caf-enterprise-scale?style=flat&logo=github)
 
